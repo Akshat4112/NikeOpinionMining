@@ -1,7 +1,4 @@
-## Nike Products Opinion Mining 
-
-### Nike products sentiment analysis and Topic modelling using LDA <br>
-
+### Opinion Mining 
 ### LDA Visualizations as per schema<br>
 
 **LDAvis_1 for LDA Visualization for model1** <br>
